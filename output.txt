@@ -1,0 +1,31 @@
+Flight 1: Chicago, Tokyo (Cost)
+Path 1: Chicago -> Houston -> Dallas -> Denver -> Tokyo. Time: 233 Cost: 398.00
+Path 2: Chicago -> Houston -> Austin -> Dallas -> Denver -> Tokyo. Time: 245 Cost: 421.00
+Path 3: Chicago -> Houston -> Dallas -> Denver -> Tokyo. Time: 245 Cost: 423.00
+
+Flight 2: Phoenix, Paris (Time)
+No flight plan can be created.
+
+Flight 3: Houston, Tokyo (Cost)
+Path 1: Houston -> Dallas -> Denver -> Tokyo. Time: 180 Cost: 290.00
+Path 2: Houston -> Austin -> Dallas -> Denver -> Tokyo. Time: 192 Cost: 313.00
+Path 3: Houston -> Dallas -> Denver -> Tokyo. Time: 192 Cost: 315.00
+
+Flight 4: Boston, Paris (Time)
+Path 1: Boston -> Miami -> Atlanta -> Dallas -> Paris. Time: 303 Cost: 533.00
+Path 2: Boston -> NewYork -> Chicago -> Houston -> Dallas -> Paris. Time: 323 Cost: 618.00
+Path 3: Boston -> Miami -> Atlanta -> Dallas -> Paris. Time: 326 Cost: 568.00
+
+Flight 5: Miami, London (Cost)
+Path 1: Miami -> Atlanta -> Dallas -> Paris -> London. Time: 281 Cost: 519.00
+Path 2: Miami -> Atlanta -> Dallas -> Paris -> London. Time: 304 Cost: 554.00
+Path 3: Miami -> Atlanta -> Dallas -> Paris -> London. Time: 298 Cost: 557.00
+
+Flight 6: Seattle, Dubai (Time)
+No flight plan can be created.
+
+Flight 7: Denver, Dubai (Cost)
+Path 1: Denver -> Dallas -> Paris -> London -> Dubai. Time: 365 Cost: 670.00
+Path 2: Denver -> Dallas -> Paris -> London -> Dubai. Time: 379 Cost: 697.00
+Path 3: Denver -> Dallas -> Paris -> London -> Dubai. Time: 382 Cost: 708.00
+
